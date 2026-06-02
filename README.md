@@ -7,8 +7,8 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mr1xyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://streak-stats.demolab.com/?user=mr1xyyy&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=mr1xyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
 </p>
 
 <p align="center">
